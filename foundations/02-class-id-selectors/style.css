@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.three {
+    font-size: x-large;
+}
+
+#id1 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#id2 {
+    background-color: greenyellow;
+    font-weight: bolder;
+}
